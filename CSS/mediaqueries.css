@@ -1,0 +1,23 @@
+@media screen and (max-width: 600px) {
+.gridmenu {
+    position: relative;
+}
+.gridmenu .menu a {
+    font-size: 10px;
+    
+
+}
+.main .portada h1{
+   font-size: 15px; 
+}
+.main .portada h2{
+    font-size: 15px; 
+ }
+ .backgroud {
+     background-size: cover
+ }
+
+
+
+
+}
